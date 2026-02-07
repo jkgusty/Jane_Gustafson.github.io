@@ -1,7 +1,14 @@
+---
+layout: default
+title: Home
+---
+
 # About Me: Jane Gustafson
 
 ## Introduction
 Hello! My name is Jane Gustafson, and I am a dedicated and detail-oriented statistics student with a passion for data science. I am currently pursuing a Bachelor of Science in Statistics with a minor in Spanish at Brigham Young University. My academic and professional interests include statistical modeling, data analysis, and programming, with a focus on applying data-driven insights to real-world problems. I strive to combine technical expertise with clear communication and teamwork to create meaningful solutions.
+
+![In my hometown Washington D.C.](images/Me_in_dc.jpeg)
 
 ## Education
 - **Brigham Young University**, Provo, UT  
