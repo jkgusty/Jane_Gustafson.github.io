@@ -3,7 +3,7 @@ layout: default
 title: Jane Gustafson: Portfolio
 ---
 
-# About Me
+# About Me: Jane Gustafson
 
 ## Introduction
 Hello! My name is Jane Gustafson, and I am from Fairfax, Virginia. I am a dedicated and detail-oriented student with a passion for learning. I am currently pursuing a Bachelor of Science in Statistics with an emphasis in data science and a minor in Spanish at Brigham Young University. I enjoy using critical thinking to solve problems which is why my academic and professional interests include statistical modeling and data analysis to apply data-driven insights to real-world problems.
